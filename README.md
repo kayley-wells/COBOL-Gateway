@@ -185,7 +185,7 @@ BRANCH  SALES CUST   SALES                    SALES         CHANGE        CHANGE
                                              120,525.72    121,155.45        629.73-      0.5-
 ```
 
-[To Table of Contents](#-table-of-contents)
+[To Table of Contents](#table-of-contents)
 
 ## RPT6000
 RPT6000 is a COBOL batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
