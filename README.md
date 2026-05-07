@@ -27,6 +27,9 @@ Software Used:
 - VSCode
 - GitHub
 
+✅ Completed
+[RPT2000 Repository](https://github.com/kayley-wells/RPT2000)
+
 Output Example:
 ```
 DATE:  04/10/2026                          YEAR-TO-DATE SALES REPORT                          PAGE:    1
@@ -88,6 +91,9 @@ Software Used:
 - VSCode
 - GitHub
 
+✅ Completed
+[RPT3000 Repository](https://github.com/kayley-wells/RPT3000)
+
 Output Example:
 ```
 DATE:  03/24/2026                YEAR-TO-DATE SALES REPORT                       PAGE:    1
@@ -131,6 +137,9 @@ Software Used:
 - COBOL Enterprise
 - VSCode
 - GitHub
+
+✅ Completed
+[RPT5000 Repository](https://github.com/Grantyy1/COBOL_RPT5000)
 
 Output Example:
 ```
@@ -182,6 +191,9 @@ Software Used:
 - COBOL Enterprise
 - VSCode
 - GitHub
+
+✅ Completed
+[RPT6000 Repository](https://github.com/kayley-wells/RPT6000)
 
 Output Example:
 ```
@@ -242,6 +254,9 @@ Software Used:
 - VSCode
 - GitHub
 
+✅ Completed
+[CALC2000 Repository](https://github.com/kayley-wells/CALC2000)
+
 Output Example:
 ```
 Calculating Future Values.
@@ -277,20 +292,26 @@ Software Used:
 - VSCode
 - GitHub
 
+✅ Completed
+[SEQ3000 Repository](https://github.com/kayley-wells/SEQ3000)
+
 Output Example for Employee File:
 ```
 10008ROBERT DAVIS                  HR   H3065000{08003000
 10012MARY WILLIAMS                 ACCT A1055000005002000
 ```
 
-## JAVAFXCalculator
-The Java FX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, mutiplay, devide, exponets, and square roots.
+## JavaFXCalculator
+The JavaFX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, multiply, divide, calculate exponents, and calculate square roots.
 
 Software Used:
 - IntelliJ IDEA
 - Amazon Corretto
 - Java 17
 - GitHub
+
+✅ Completed
+[JavaFXCalculator Repository](https://github.com/kayley-wells/JavaFXCalculator)
 
 Output Example:
 
@@ -302,10 +323,11 @@ Output Example:
 V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
 
 Software Used:
-- IntelliJ IDEA
-- Amazon Corretto
-- Java 17
+- CLion
 - GitHub
+
+✅ Completed
+[MathTutorV6 Repository](https://github.com/kayley-wells/MathTutorV6)
 
 Output Example:
 ```
