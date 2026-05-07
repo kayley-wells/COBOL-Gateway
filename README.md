@@ -235,9 +235,147 @@ BRANCH   SALESREP             CUSTOMER              THIS YTD      LAST YTD      
 ```
 
 ## CALC2000
+A small COBOL program that calculates the future value of an investment using a fixed annual interest rateover a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time.
+
+Software Used:
+- COBOL Enterprise
+- VSCode
+- GitHub
+
+Output Example:
+```
+Calculating Future Values.
+  ----------------------------
+    Investment Amount =      1,000
+    Number of Years   = 10
+    Yearly Interest   = 5.5
+    Future Value      =  1,708.16
+  ----------------------------
+  ----------------------------
+    Investment Amount =      2,000
+    Number of Years   = 10
+    Yearly Interest   = 5.5
+    Future Value      =  3,416.29
+  ----------------------------
+  ----------------------------
+    Investment Amount =      4,000
+    Number of Years   = 10
+    Yearly Interest   = 5.5
+    Future Value      =  6,832.58
+  ----------------------------
+```
 
 ## SEQ3000
+The COBOL EMPLOYEE SYSTEM is a multi-program COBOL project designed to create, maintain, and update employee records using both sequential and indexed file processing techniques.
+
+This system expands across multiple programs that work together to simulate real-world batch and online-style file maintenance. It includes initial file creation, sequential transaction processing, and indexed file maintenance with error handling. The programs demonstrate how employee data can be added, updated, deleted, and validated across different storage structures.
+
+The system produces updated employee master files while also capturing invalid transactions for auditing and debugging purposes.
+
+Software Used:
+- COBOL Enterprise
+- VSCode
+- GitHub
+
+Output Example for Employee File:
+```
+10008ROBERT DAVIS                  HR   H3065000{08003000
+10012MARY WILLIAMS                 ACCT A1055000005002000
+```
 
 ## JAVAFXCalculator
+The Java FX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, mutiplay, devide, exponets, and square roots.
+
+Software Used:
+- IntelliJ IDEA
+- Amazon Corretto
+- Java 17
+- GitHub
+
+Output Example:
 
 ## MathTutorV6
+V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
+
+Software Used:
+- IntelliJ IDEA
+- Amazon Corretto
+- Java 17
+- GitHub
+
+Output Example:
+```
+************************************************************
+ _   _      _        __       _   __  __       _   _
+| | | | ___| |_ __  / _|_   _| | |  \/  | __ _| |_| |__
+| |_| |/ _ \ | '_ \| |_| | | | | | |\/| |/ _` | __| '_ \
+|  _  |  __/ | |_) |  _| |_| | | | |  | | (_| | |_| | | |
+|_| |_|\___|_| .__/|_|  \__,_|_| |_|  |_|\__,_|\__|_| |_|
+|_   _|   _| |_|___  _ __
+  | || | | | __/ _ \| '__|
+  | || |_| | || (_) | |
+  |_| \__,_|\__\___/|_|
+*************************************************************
+*             Welcome to the Helpful Math Tutor             *
+*           This will quiz you on your Math skills.         *
+************************************************************
+Intersting Math Facts:
+     *The sum of opposite on a standard die is always 7!
+     *1000 is the only number from 0 to 1000 that has an a in it!
+     *1,089 X 9 = 9,801
+     *111,111,111 X 111,111,111 = 12,345,678,987,654,321
+************************************************************
+
+
+Enter your name:Kayley
+
+Hello Kayley, welcome to Math Tutor!
+[Level #1]Kayley what is 4 * 2?
+8
+
+Congrats! You are correct!
+Thank you for playing the game!
+Do you want to continue (y=yes | n=no)?y
+
+[Level #1]Kayley what is 5 - 4?
+1
+
+Congrats! You are correct!
+Thank you for playing the game!
+Do you want to continue (y=yes | n=no)?y
+
+[Level #1]Kayley what is 8 - 6?
+2
+
+Congrats! You are correct!
+Thank you for playing the game!
+Congrats! You have upgraded to Level: 2
+The numbers are now between 1 and 20
+Do you want to continue (y=yes | n=no)?n
+
+===================================
+          Summary Report
+===================================
+Level      Question      Attempts
+----- ------------------ ---------
+   1    4 * 2  =    8        1
+   1    5 - 4  =    1        1
+   1    8 - 6  =    2        1
+
+Total Questions:    3
+Total Correct:      3
+Total Incorrect:    0
+Average:          100%
+
+Good work, Kayley!Do you want to continue (y=yes | n=no)?y
+
+Saving game, please wait...
+0 questions were successfully saved to the file.
+Do you want to continue (y=yes | n=no)?y
+
+Loading game, please wait...
+0 questions were successfully saved to the file.
+
+Process finished with exit code -1073741795 (0xC000001D)
+
+```
