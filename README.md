@@ -32,9 +32,9 @@ I am currently studying Computer Information Systems - Networking & Cybersecurit
 ## RPT2000
 RPT2000 is a COBOL batch reporting program that reads the Customer Master File and produces a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
 
-Key Concepts: Percent calculations | File processing | YTD comparisons
+**Key Concepts:** Percent calculations | File processing | YTD comparisons
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -42,7 +42,7 @@ Software Used:
 ✅ Completed
 [RPT2000 Repository](https://github.com/kayley-wells/RPT2000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/RPT2000.png" alt="RPT2000" />
 </p>
@@ -52,9 +52,9 @@ Output Example:
 ## RPT3000
 This COBOL program calculates the amount changed for a customer's sales from the previous year compared to the present year. It then subsequently calculates the percentage change as well.
 
-Key Concepts: Switches | Data files
+**Key Concepts:** Switches | Data files
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -62,7 +62,7 @@ Software Used:
 ✅ Completed
 [RPT3000 Repository](https://github.com/kayley-wells/RPT3000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/RPT3000.png" alt="RPT3000" />
 </p>
@@ -72,9 +72,9 @@ Output Example:
 ## RPT5000
 This COBOL program generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. It calculates the change in dollar amount and the percentage change between the two periods. The report is organised using a control break structure, producing subtotals at the sales representative level and the branch level, as well as a grand total across all branches.
 
-Key Concepts: Control breaks | 88-Level conditions
+**Key Concepts:** Control breaks | 88-Level conditions
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -82,7 +82,7 @@ Software Used:
 ✅ Completed
 [RPT5000 Repository](https://github.com/kayley-wells/RPT5000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/RPT5000.png" alt="RPT5000" />
 </p>
@@ -92,9 +92,9 @@ Output Example:
 ## RPT6000
 RPT6000 is a COBOL batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
 
-Key Concepts: Table processing with "indexes" and "occurs" | COPYLIB | Pic clauses
+**Key Concepts:** Table processing with "indexes" and "occurs" | COPYLIB | Pic clauses
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -102,7 +102,7 @@ Software Used:
 ✅ Completed
 [RPT6000 Repository](https://github.com/kayley-wells/RPT6000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/RPT6000.png" alt="RPT6000" />
 </p>
@@ -111,9 +111,9 @@ Output Example:
 ## CALC2000
 A small COBOL program that calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time.
 
-Key Concepts: Mathematical operations | Data division handling | Output formatting | Doubling
+**Key Concepts:** Mathematical operations | Data division handling | Output formatting | Doubling
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -121,7 +121,7 @@ Software Used:
 ✅ Completed
 [CALC2000 Repository](https://github.com/kayley-wells/CALC2000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/CALC2000.png" alt="CALC2000" />
 </p>
@@ -133,9 +133,9 @@ UTIL2000 is a COBOL utility billing program that calculates and displays electri
 
 The program is designed to run in a mainframe environment using: -TN3270 -ISPF (editing and dataset navigation) -SDSF (job output and error review)
 
-Key Concepts: Mathematical operations | Output formatting | Navigating TN3270/ISPF
+**Key Concepts:** Mathematical operations | Output formatting | Navigating TN3270/ISPF
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - Vista TN3270
 - GitHub
@@ -143,7 +143,7 @@ Software Used:
 ✅ Completed
 [UTIL2000 Repository](https://github.com/kayley-wells/UTIL2000)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/UTIL2000.png" alt="UTIL2000" />
 </p>
@@ -156,9 +156,9 @@ This system expands across multiple programs that work together to simulate real
 
 The system produces updated employee master files while also capturing invalid transactions for auditing and debugging purposes.
 
-Key Concepts: Error handling | Adding, deletion, updating of master file | File maintenance
+**Key Concepts:** Error handling | Adding, deletion, updating of master file | File maintenance
 
-Software Used:
+**Software Used:**
 - COBOL Enterprise
 - VSCode
 - GitHub
@@ -166,7 +166,7 @@ Software Used:
 ✅ Completed
 [SEQ3000 Repository](https://github.com/kayley-wells/SEQ3000)
 
-Output Example for Employee File:
+**Output Example for Employee File:**
 ```
 10008ROBERT DAVIS                  HR   H3065000{08003000
 10012MARY WILLIAMS                 ACCT A1055000005002000
@@ -176,9 +176,9 @@ Output Example for Employee File:
 ## JavaFXCalculator
 The JavaFX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, multiply, divide, calculate exponents, and calculate square roots.
 
-Key Concepts: Object-oriented programming | Mathematical operations
+**Key Concepts:** Object-oriented programming | Mathematical operations
 
-Software Used:
+**Software Used:**
 - IntelliJ IDEA
 - Amazon Corretto
 - Java 17
@@ -187,7 +187,7 @@ Software Used:
 ✅ Completed
 [JavaFXCalculator Repository](https://github.com/kayley-wells/JavaFXCalculator)
 
-Output Example:
+**Output Example:**
 <p align="left">
   <img src="assets/ex.gif" alt="JavaFXCalculator" />
 </p>
@@ -196,16 +196,16 @@ Output Example:
 ## MathTutorV6
 V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
 
-Key Concepts: Vectors | Random number generation | Enumeration | Friendly UI
+**Key Concepts:** Vectors | Random number generation | Enumeration | Friendly UI
 
-Software Used:
+**Software Used:**
 - CLion
 - GitHub
 
 ✅ Completed
 [MathTutorV6 Repository](https://github.com/kayley-wells/MathTutorV6)
 
-Output Example:
+**Output Example:**
 ```
 ************************************************************
  _   _      _        __       _   __  __       _   _
