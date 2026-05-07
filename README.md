@@ -21,7 +21,7 @@ I am currently studying Computer Information Systems - Networking & Cybersecurit
 |---------|------|----------|-------------|------|
 | [RPT2000](#RPT2000) | COBOL / JCL | Intro to Enterprise Computing | Batch reporting program that reads the Customer Master File and produces a formatted Year-to-Date Sales Report. | [RPT2000](https://github.com/kayley-wells/RPT2000) |
 | [RPT3000](#RPT3000) | COBOL / JCL | Intro to Enterprise Computing | Calculates the amount changed for a customer's sales from the previous year compared to the present year. | [RPT3000](https://github.com/kayley-wells/RPT3000)|
-| [RPT5000](#COBOL_RPT5000) | COBOL / JCL | Intro to Enterprise Computing | Generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. | [RPT5000](https://github.com/Grantyy1/COBOL_RPT5000)|
+| [RPT5000](#COBOL_RPT5000) | COBOL / JCL | Intro to Enterprise Computing | Generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. | [RPT5000](https://github.com/kayley-wells/RPT5000)|
 | [RPT6000](#RPT6000) | COBOL / JCL | Intro to Enterprise Computing | Batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. | [RPT6000](https://github.com/kayley-wells/RPT6000)|
 | [CALC2000](#CALC2000) | COBOL / JCL | Intro to Enterprise Computing | Calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. | [CALC2000](https://github.com/kayley-wells/CALC2000)|
 | [SEQ3000](#SEQ3000) | COBOL / JCL | Intro to Enterprise Computing | A multi-program COBOL project designed to create, maintain, and update employee records using both sequential and indexed file processing techniques. | [SEQ3000](https://github.com/kayley-wells/SEQ3000)|
@@ -150,7 +150,7 @@ Software Used:
 - GitHub
 
 ✅ Completed
-[RPT5000 Repository](https://github.com/Grantyy1/COBOL_RPT5000)
+[RPT5000 Repository](https://github.com/kayley-wells/RPT5000)
 
 Output Example:
 ```
