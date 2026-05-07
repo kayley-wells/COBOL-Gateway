@@ -293,7 +293,10 @@ Software Used:
 - GitHub
 
 Output Example:
-![JavaFXCalculator](assets/ex.gif)
+
+<p align="left">
+  <img src="assets/ex.gif" alt="JavaFXCalculator" />
+</p>
 
 ## MathTutorV6
 V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
