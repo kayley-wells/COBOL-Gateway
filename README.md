@@ -1,5 +1,8 @@
 # COBOL Developer Gateway
 - Author: Kayley Wells
+<p align="center">
+  <img src="assets/profilepic.jpg" alt="Profile Picture" />
+</p>
 - Course: Intro to Enterprise Computing
 
 ## About Me
