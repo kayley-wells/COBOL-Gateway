@@ -7,7 +7,7 @@ I am currently studying Computer Information Systems - Networking & Cybersecurit
 
 ## Profile
 <p align="center">
-  <img src="assets/profilepic.jpg" alt="Profile Picture" width="150"/>
+  <img src="assets/profilepic.jpg" alt="Profile Picture" width="200"/>
 </p>
 <h3 align="center">Kayley Wells</h3>
 <p align="center">
