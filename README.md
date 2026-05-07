@@ -133,7 +133,7 @@ UTIL2000 is a COBOL utility billing program that calculates and displays electri
 
 The program is designed to run in a mainframe environment using: -TN3270 -ISPF (editing and dataset navigation) -SDSF (job output and error review)
 
-**Key Concepts:** Mathematical operations | Output formatting | Navigating TN3270/ISPF
+**Key Concepts:** Mathematical operations | Output formatting | Navigating TN3270, ISPF, and SDSF
 
 **Software Used:**
 - COBOL Enterprise
