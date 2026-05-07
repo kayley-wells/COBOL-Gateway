@@ -82,6 +82,7 @@ BRANCH   SALESREP             CUSTOMER              THIS YTD      LAST YTD      
 
 ```
 
+[To Table of Contents](#-table-of-contents)
 
 ## RPT3000
 This COBOL program calculates the amount changed for a customer's sales from the previous year compared to the present year. It then subsequently calculates the percentage change as well.
@@ -129,6 +130,7 @@ BRANCH  SALES CUST   SALES                    SALES         CHANGE        CHANGE
 
 ```
 
+[To Table of Contents](#-table-of-contents)
 
 ## RPT5000
 This COBOL program generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. It calculates the change in dollar amount and the percentage change between the two periods. The report is organised using a control break structure, producing subtotals at the sales representative level and the branch level, as well as a grand total across all branches.
@@ -183,6 +185,7 @@ BRANCH  SALES CUST   SALES                    SALES         CHANGE        CHANGE
                                              120,525.72    121,155.45        629.73-      0.5-
 ```
 
+[To Table of Contents](#-table-of-contents)
 
 ## RPT6000
 RPT6000 is a COBOL batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
@@ -246,6 +249,7 @@ BRANCH   SALESREP             CUSTOMER              THIS YTD      LAST YTD      
                                        GRAND TOTAL $120,525.72   $121,155.45       $629.73-    -0.5***
 ```
 
+[To Table of Contents](#-table-of-contents)
 ## CALC2000
 A small COBOL program that calculates the future value of an investment using a fixed annual interest rateover a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time.
 
@@ -280,6 +284,7 @@ Calculating Future Values.
   ----------------------------
 ```
 
+[To Table of Contents](#-table-of-contents)
 ## SEQ3000
 The COBOL EMPLOYEE SYSTEM is a multi-program COBOL project designed to create, maintain, and update employee records using both sequential and indexed file processing techniques.
 
@@ -301,6 +306,7 @@ Output Example for Employee File:
 10012MARY WILLIAMS                 ACCT A1055000005002000
 ```
 
+[To Table of Contents](#-table-of-contents)
 ## JavaFXCalculator
 The JavaFX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, multiply, divide, calculate exponents, and calculate square roots.
 
@@ -319,6 +325,7 @@ Output Example:
   <img src="assets/ex.gif" alt="JavaFXCalculator" />
 </p>
 
+[To Table of Contents](#-table-of-contents)
 ## MathTutorV6
 V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
 
@@ -405,3 +412,4 @@ Loading game, please wait...
 Process finished with exit code -1073741795 (0xC000001D)
 
 ```
+[To Table of Contents](#-table-of-contents)
