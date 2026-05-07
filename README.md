@@ -1,14 +1,20 @@
 # COBOL Developer Gateway
 - Author: Kayley Wells
-<p align="center">
-  <img src="assets/profilepic.jpg" alt="Profile Picture" width="150"/>
-</p>
 - Course: Intro to Enterprise Computing
 
 ## About Me
 I am currently studying Computer Information Systems - Networking & Cybersecurity at WSC. This repository is a portfolio of assignments and projects completed throughout my academic career.
 
 ## Profile
+<p align="center">
+  <img src="assets/profilepic.jpg" alt="Profile Picture" width="150"/>
+</p>
+<h3 align="center">Kayley Wells</h3>
+<p align="center">
+  <a href="https://github.com/kayley-wells">GitHub</a> •
+  <a href="mailto:kawell03@wsc.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/kayley-wells-a2a503350/">LinkedIn</a>
+</p>
 
 ## Table of Contents
 | Project Name | Coding Lanugage | Course | Description | Repository Link |
