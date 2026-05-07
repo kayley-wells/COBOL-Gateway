@@ -24,6 +24,7 @@ I am currently studying Computer Information Systems - Networking & Cybersecurit
 | [RPT5000](#COBOL_RPT5000) | COBOL / JCL | Intro to Enterprise Computing | Generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. | [RPT5000](https://github.com/kayley-wells/RPT5000)|
 | [RPT6000](#RPT6000) | COBOL / JCL | Intro to Enterprise Computing | Batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. | [RPT6000](https://github.com/kayley-wells/RPT6000)|
 | [CALC2000](#CALC2000) | COBOL / JCL | Intro to Enterprise Computing | Calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. | [CALC2000](https://github.com/kayley-wells/CALC2000)|
+| [UTIL2000](#UTIL2000) | COBOL / JCL | Intro to Enterprise Computing | Utility billing program that calculates and displays electricity bills for predefined customers. | [CALC2000](https://github.com/kayley-wells/UTIL2000)|
 | [SEQ3000](#SEQ3000) | COBOL / JCL | Intro to Enterprise Computing | A multi-program COBOL project designed to create, maintain, and update employee records using both sequential and indexed file processing techniques. | [SEQ3000](https://github.com/kayley-wells/SEQ3000)|
 | [JAVAFXCalculator](#JAVAFXCalculator) | Java | Programming Fundamentals II | JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. | [JAVAFXCalculator](https://github.com/kayley-wells/JavaFXCalculator) |
 | [MathTutorV6](#MathTutorV6) | C++ | Programming Fundamentals I | An interactive math tutor designed for young children. | [MathTutorV6](https://github.com/kayley-wells/MathTutorV6) |
@@ -111,27 +112,29 @@ Software Used:
 [CALC2000 Repository](https://github.com/kayley-wells/CALC2000)
 
 Output Example:
-```
-Calculating Future Values.
-  ----------------------------
-    Investment Amount =      1,000
-    Number of Years   = 10
-    Yearly Interest   = 5.5
-    Future Value      =  1,708.16
-  ----------------------------
-  ----------------------------
-    Investment Amount =      2,000
-    Number of Years   = 10
-    Yearly Interest   = 5.5
-    Future Value      =  3,416.29
-  ----------------------------
-  ----------------------------
-    Investment Amount =      4,000
-    Number of Years   = 10
-    Yearly Interest   = 5.5
-    Future Value      =  6,832.58
-  ----------------------------
-```
+<p align="left">
+  <img src="assets/CALC2000.png" alt="CALC2000" />
+</p>
+
+[To Table of Contents](#table-of-contents)
+
+## UTIL2000
+UTIL2000 is a COBOL utility billing program that calculates and displays electricity bills for three predefined customers: -CUST-ALPHA -CUST-BRAVO -CUST-CHARLIE
+
+The program is designed to run in a mainframe environment using: -TN3270 -ISPF (editing and dataset navigation) -SDSF (job output and error review)
+
+Software Used:
+- COBOL Enterprise
+- Vista TN3270
+- GitHub
+
+✅ Completed
+[UTIL2000 Repository](https://github.com/kayley-wells/UTIL2000)
+
+Output Example:
+<p align="left">
+  <img src="assets/UTIL2000.png" alt="UTIL2000" />
+</p>
 
 [To Table of Contents](#table-of-contents)
 ## SEQ3000
