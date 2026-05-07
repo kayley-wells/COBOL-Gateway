@@ -32,6 +32,8 @@ I am currently studying Computer Information Systems - Networking & Cybersecurit
 ## RPT2000
 RPT2000 is a COBOL batch reporting program that reads the Customer Master File and produces a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
 
+Key Concepts: Percent calculations | File processing | YTD comparisons |
+
 Software Used:
 - COBOL Enterprise
 - VSCode
@@ -49,6 +51,8 @@ Output Example:
 
 ## RPT3000
 This COBOL program calculates the amount changed for a customer's sales from the previous year compared to the present year. It then subsequently calculates the percentage change as well.
+
+Key Concepts: Switches | Data files |
 
 Software Used:
 - COBOL Enterprise
@@ -68,6 +72,8 @@ Output Example:
 ## RPT5000
 This COBOL program generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. It calculates the change in dollar amount and the percentage change between the two periods. The report is organised using a control break structure, producing subtotals at the sales representative level and the branch level, as well as a grand total across all branches.
 
+Key Concepts: Control breaks | 88-Level conditions |
+
 Software Used:
 - COBOL Enterprise
 - VSCode
@@ -86,6 +92,8 @@ Output Example:
 ## RPT6000
 RPT6000 is a COBOL batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
 
+Key Concepts: Table processing with "indexes" and "occurs" | COPYLIB | Pic clauses |
+
 Software Used:
 - COBOL Enterprise
 - VSCode
@@ -101,7 +109,9 @@ Output Example:
 
 [To Table of Contents](#table-of-contents)
 ## CALC2000
-A small COBOL program that calculates the future value of an investment using a fixed annual interest rateover a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time.
+A small COBOL program that calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time.
+
+Key Concepts: Mathematical operations | Data division handling | Output formatting | Doubling |
 
 Software Used:
 - COBOL Enterprise
@@ -122,6 +132,8 @@ Output Example:
 UTIL2000 is a COBOL utility billing program that calculates and displays electricity bills for three predefined customers: -CUST-ALPHA -CUST-BRAVO -CUST-CHARLIE
 
 The program is designed to run in a mainframe environment using: -TN3270 -ISPF (editing and dataset navigation) -SDSF (job output and error review)
+
+Key Concepts: Mathematical operations | Output formatting | Navigating TN3270/ISPF |
 
 Software Used:
 - COBOL Enterprise
@@ -144,6 +156,8 @@ This system expands across multiple programs that work together to simulate real
 
 The system produces updated employee master files while also capturing invalid transactions for auditing and debugging purposes.
 
+Key Concepts: Error handling | Adding, deletion, updating of master file | File maintenance |
+
 Software Used:
 - COBOL Enterprise
 - VSCode
@@ -162,6 +176,8 @@ Output Example for Employee File:
 ## JavaFXCalculator
 The JavaFX Calculator is a JavaFX-based application that allows users to interact with a calculator using the last user's entry or total using memory. The application provides functionalities to add, multiply, divide, calculate exponents, and calculate square roots.
 
+Key Concepts: Object-oriented programming | Mathematical operations |
+
 Software Used:
 - IntelliJ IDEA
 - Amazon Corretto
@@ -179,6 +195,8 @@ Output Example:
 [To Table of Contents](#table-of-contents)
 ## MathTutorV6
 V6 is an interactive math tutor for young children that generates random math problems and dynamically adjusts difficulty based on the user's performance — leveling up with correct answers and down with incorrect ones. It collects the user's name, tracks their progress throughout the session, and provides encouraging feedback along the way. Once finished, the program displays a summary report showing which questions were answered correctly and incorrectly. It also supports saving and loading progress so users can pick up where they left off.
+
+Key Concepts: Vectors | Random number generation | Enumeration | Friendly UI |
 
 Software Used:
 - CLion
