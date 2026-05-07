@@ -79,6 +79,7 @@ BRANCH   SALESREP             CUSTOMER              THIS YTD      LAST YTD      
 
 ```
 
+
 ## RPT3000
 This COBOL program calculates the amount changed for a customer's sales from the previous year compared to the present year. It then subsequently calculates the percentage change as well.
 
@@ -121,6 +122,7 @@ BRANCH  SALES CUST   SALES                    SALES         CHANGE        CHANGE
                                            120,525.72    121,155.45        629.73-      0.5-
 
 ```
+
 
 ## RPT5000
 This COBOL program generates a Year-To-Date Sales Report that compares each customer's sales figures from the current year against the previous year. It calculates the change in dollar amount and the percentage change between the two periods. The report is organised using a control break structure, producing subtotals at the sales representative level and the branch level, as well as a grand total across all branches.
@@ -171,6 +173,8 @@ BRANCH  SALES CUST   SALES                    SALES         CHANGE        CHANGE
                          GRAND TOTAL:        ==========    ==========    ==========    =======***
                                              120,525.72    121,155.45        629.73-      0.5-
 ```
+
+
 ## RPT6000
 RPT6000 is a COBOL batch reporting program that reads the Customer Master File and Sales Rep Master File to produce a formatted Year-to-Date Sales Report. The report includes each customer's current and prior year sales figures, along with a calculated change amount and change percent for performance comparison.
 
