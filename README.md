@@ -37,10 +37,8 @@ Software Used:
 - VSCode
 - GitHub
 
-
 ✅ Completed
 [RPT2000 Repository](https://github.com/kayley-wells/RPT2000)
-
 
 Output Example:
 <p align="left">
